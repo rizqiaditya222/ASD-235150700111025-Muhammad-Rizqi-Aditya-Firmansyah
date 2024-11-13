@@ -4,7 +4,7 @@ public class Sort {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Boolean lanjut = true;
-        System.out.println("=========  P R O G R A M   S O R T I N G  =========");
+        System.out.println("=======  P R O G R A M   S O R T I N G  =======");
 
         while (lanjut) { 
             System.out.println("\nMasukkan angka yang akan diurutkan: ");
